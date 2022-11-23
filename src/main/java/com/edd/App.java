@@ -30,7 +30,7 @@ public class App
             if(optionNumber == 4){
                 System.exit(200);
             }
-            if (optionNumber == 0 || optionNumber > 4) {
+            if (optionNumber < 1 || optionNumber > 4) {
                 JOptionPane.showMessageDialog(null, "Debe seleccionar una opción válida.");
             }
             loadOption(optionNumber);
