@@ -1,0 +1,19 @@
+[
+    {
+        "user": "isaac",
+        "passwd": "12345",
+        "role": "student",
+        "materias":[
+            {
+                "name": "Estructuras de Datos",
+                "profesor": "David Bryan Padilla Alemán",
+                "horario": "20:00 - 22:00"
+            },
+            {
+                "name": "Programación Orientada a Objetos",
+                "profesor": "Dyana Erika Marrón Luna",
+                "horario": "18:00 - 20:00"
+            }
+        ]
+    }
+]
