@@ -5,14 +5,34 @@
         "role": "student",
         "materias":[
             {
-                "name": "Estructuras de Datos",
-                "profesor": "David Bryan Padilla Alemán",
-                "horario": "20:00 - 22:00"
+                "name": "Álgebra Superior",
+                "profesor": "Virginia Haro Sánchez",
+                "horario": "14:00 - 16:00"
             },
             {
-                "name": "Programación Orientada a Objetos",
-                "profesor": "Dyana Erika Marrón Luna",
+                "name": "Cálculo I",
+                "profesor": "Ricardo Guzmán Fuentes",
                 "horario": "18:00 - 20:00"
+            },
+            {
+                "name": "Organización De Computadoras",
+                "profesor": "Efrén Pablo Hector González Videgaray",
+                "horario": "16:00 - 18:00"
+            },
+            {
+                "name": "Programación I",
+                "profesor": "María Tapia Aguilar",
+                "horario": "16:00 - 18:00"
+            },
+            {
+                "name": "Solución Algoritmica de Problemas",
+                "profesor": "Sergio Miguel Rosales Sánchez",
+                "horario": "18:00 - 20:00"
+            },
+            {
+                "name": "Lógica Matemática",
+                "profesor": "Mónica Zaima Víquez Cano",
+                "horario": "14:00 - 16:00"
             }
         ]
     }
